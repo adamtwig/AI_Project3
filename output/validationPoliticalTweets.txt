@@ -1,0 +1,297 @@
+Naive bayes classification with random subsampling at 1-percent:
+Correct: 15605, Total: 19753, Effectiveness: 79%
+
+Naive bayes classification with random subsampling at 2-percent:
+Correct: 15449, Total: 19630, Effectiveness: 78%
+
+Naive bayes classification with random subsampling at 3-percent:
+Correct: 15822, Total: 19321, Effectiveness: 81%
+
+Naive bayes classification with random subsampling at 4-percent:
+Correct: 15863, Total: 19087, Effectiveness: 83%
+
+Naive bayes classification with random subsampling at 5-percent:
+Correct: 16028, Total: 18874, Effectiveness: 84%
+
+Naive bayes classification with random subsampling at 6-percent:
+Correct: 15869, Total: 18666, Effectiveness: 85%
+
+Naive bayes classification with random subsampling at 7-percent:
+Correct: 15812, Total: 18450, Effectiveness: 85%
+
+Naive bayes classification with random subsampling at 8-percent:
+Correct: 15653, Total: 18222, Effectiveness: 85%
+
+Naive bayes classification with random subsampling at 9-percent:
+Correct: 15586, Total: 18048, Effectiveness: 86%
+
+Naive bayes classification with random subsampling at 10-percent:
+Correct: 15420, Total: 17776, Effectiveness: 86%
+
+Naive bayes classification with random subsampling at 11-percent:
+Correct: 15345, Total: 17586, Effectiveness: 87%
+
+Naive bayes classification with random subsampling at 12-percent:
+Correct: 15190, Total: 17362, Effectiveness: 87%
+
+Naive bayes classification with random subsampling at 13-percent:
+Correct: 15013, Total: 17165, Effectiveness: 87%
+
+Naive bayes classification with random subsampling at 14-percent:
+Correct: 14913, Total: 16981, Effectiveness: 87%
+
+Naive bayes classification with random subsampling at 15-percent:
+Correct: 14676, Total: 16748, Effectiveness: 87%
+
+Naive bayes classification with random subsampling at 16-percent:
+Correct: 14617, Total: 16545, Effectiveness: 88%
+
+Naive bayes classification with random subsampling at 17-percent:
+Correct: 14547, Total: 16341, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 18-percent:
+Correct: 14166, Total: 16151, Effectiveness: 87%
+
+Naive bayes classification with random subsampling at 19-percent:
+Correct: 14068, Total: 15921, Effectiveness: 88%
+
+Naive bayes classification with random subsampling at 20-percent:
+Correct: 13957, Total: 15716, Effectiveness: 88%
+
+Naive bayes classification with random subsampling at 21-percent:
+Correct: 13699, Total: 15512, Effectiveness: 88%
+
+Naive bayes classification with random subsampling at 22-percent:
+Correct: 13580, Total: 15308, Effectiveness: 88%
+
+Naive bayes classification with random subsampling at 23-percent:
+Correct: 13362, Total: 15091, Effectiveness: 88%
+
+Naive bayes classification with random subsampling at 24-percent:
+Correct: 13301, Total: 14939, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 25-percent:
+Correct: 13093, Total: 14703, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 26-percent:
+Correct: 12909, Total: 14486, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 27-percent:
+Correct: 12819, Total: 14310, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 28-percent:
+Correct: 12539, Total: 14072, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 29-percent:
+Correct: 12359, Total: 13870, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 30-percent:
+Correct: 12279, Total: 13697, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 31-percent:
+Correct: 12009, Total: 13491, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 32-percent:
+Correct: 11918, Total: 13274, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 33-percent:
+Correct: 11702, Total: 13094, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 34-percent:
+Correct: 11519, Total: 12870, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 35-percent:
+Correct: 11229, Total: 12647, Effectiveness: 88%
+
+Naive bayes classification with random subsampling at 36-percent:
+Correct: 11167, Total: 12479, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 37-percent:
+Correct: 10969, Total: 12285, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 38-percent:
+Correct: 10844, Total: 12060, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 39-percent:
+Correct: 10633, Total: 11882, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 40-percent:
+Correct: 10477, Total: 11685, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 41-percent:
+Correct: 10269, Total: 11451, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 42-percent:
+Correct: 10090, Total: 11280, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 43-percent:
+Correct: 9942, Total: 11093, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 44-percent:
+Correct: 9742, Total: 10873, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 45-percent:
+Correct: 9595, Total: 10680, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 46-percent:
+Correct: 9450, Total: 10469, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 47-percent:
+Correct: 9221, Total: 10299, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 48-percent:
+Correct: 9102, Total: 10087, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 49-percent:
+Correct: 8884, Total: 9901, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 50-percent:
+Correct: 8716, Total: 9690, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 51-percent:
+Correct: 8574, Total: 9507, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 52-percent:
+Correct: 8354, Total: 9317, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 53-percent:
+Correct: 8248, Total: 9125, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 54-percent:
+Correct: 8070, Total: 8912, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 55-percent:
+Correct: 7861, Total: 8714, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 56-percent:
+Correct: 7684, Total: 8511, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 57-percent:
+Correct: 7507, Total: 8298, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 58-percent:
+Correct: 7295, Total: 8120, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 59-percent:
+Correct: 7211, Total: 7936, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 60-percent:
+Correct: 6991, Total: 7722, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 61-percent:
+Correct: 6827, Total: 7538, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 62-percent:
+Correct: 6634, Total: 7363, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 63-percent:
+Correct: 6469, Total: 7151, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 64-percent:
+Correct: 6263, Total: 6948, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 65-percent:
+Correct: 6094, Total: 6748, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 66-percent:
+Correct: 5886, Total: 6556, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 67-percent:
+Correct: 5787, Total: 6378, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 68-percent:
+Correct: 5628, Total: 6209, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 69-percent:
+Correct: 5400, Total: 5975, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 70-percent:
+Correct: 5247, Total: 5755, Effectiveness: 91%
+
+Naive bayes classification with random subsampling at 71-percent:
+Correct: 5084, Total: 5597, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 72-percent:
+Correct: 4910, Total: 5386, Effectiveness: 91%
+
+Naive bayes classification with random subsampling at 73-percent:
+Correct: 4702, Total: 5188, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 74-percent:
+Correct: 4579, Total: 5039, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 75-percent:
+Correct: 4366, Total: 4800, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 76-percent:
+Correct: 4147, Total: 4615, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 77-percent:
+Correct: 4036, Total: 4412, Effectiveness: 91%
+
+Naive bayes classification with random subsampling at 78-percent:
+Correct: 3854, Total: 4242, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 79-percent:
+Correct: 3655, Total: 4058, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 80-percent:
+Correct: 3479, Total: 3851, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 81-percent:
+Correct: 3331, Total: 3660, Effectiveness: 91%
+
+Naive bayes classification with random subsampling at 82-percent:
+Correct: 3117, Total: 3482, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 83-percent:
+Correct: 2955, Total: 3240, Effectiveness: 91%
+
+Naive bayes classification with random subsampling at 84-percent:
+Correct: 2799, Total: 3085, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 85-percent:
+Correct: 2612, Total: 2873, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 86-percent:
+Correct: 2438, Total: 2682, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 87-percent:
+Correct: 2231, Total: 2494, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 88-percent:
+Correct: 2108, Total: 2320, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 89-percent:
+Correct: 1917, Total: 2111, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 90-percent:
+Correct: 1772, Total: 1930, Effectiveness: 91%
+
+Naive bayes classification with random subsampling at 91-percent:
+Correct: 1542, Total: 1713, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 92-percent:
+Correct: 1401, Total: 1533, Effectiveness: 91%
+
+Naive bayes classification with random subsampling at 93-percent:
+Correct: 1212, Total: 1351, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 94-percent:
+Correct: 1041, Total: 1150, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 95-percent:
+Correct: 865, Total: 963, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 96-percent:
+Correct: 706, Total: 779, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 97-percent:
+Correct: 518, Total: 577, Effectiveness: 89%
+
+Naive bayes classification with random subsampling at 98-percent:
+Correct: 347, Total: 384, Effectiveness: 90%
+
+Naive bayes classification with random subsampling at 99-percent:
+Correct: 173, Total: 192, Effectiveness: 90%
+
